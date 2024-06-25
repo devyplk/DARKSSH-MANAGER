@@ -2,3 +2,4 @@ urllib3==1.25.09
 python-telegram-bot
 paramiko
 Telethon
+anyio>=4.4.0 # not directly required, pinned by Snyk to avoid a vulnerability
